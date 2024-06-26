@@ -58,7 +58,14 @@ The assumptions of the project are:
       Run the code with :
    
       --> python gut2.py
-       
 
-![IMG_4207-removebg-preview](https://github.com/Nasir-1310/DroidInspect/assets/113335416/9db75517-b06e-44ae-8c81-9a60b8da5340)
+
+
+User Interface:
+![Screenshot (66)](https://github.com/Nasir-1310/DroidInspect/assets/113335416/e39069f9-fc40-4db4-9ead-15eb9abd6b0e)
+
+Result:
+![Screenshot (73)](https://github.com/Nasir-1310/DroidInspect/assets/113335416/6ef04766-1e36-485c-a47b-900376afb705)
+
+
 
