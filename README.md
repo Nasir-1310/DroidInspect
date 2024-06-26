@@ -52,7 +52,7 @@ The assumptions of the project are:
    
    Execute commands :
    
-      --> Python .\start.py -a <path to apk> -o output
+      --> Python .\start.py -a <<Path_of_apk>> -o output
 
    Or
       Run the code with :
