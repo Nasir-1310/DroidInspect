@@ -50,15 +50,14 @@ The assumptions of the project are:
 2. How to Run.
 
    
-   Execute commands : 
-      --> Python .\start.py -h
+   Execute commands :
    
       --> Python .\start.py -a <path to apk> -o output
 
    Or
       Run the code with :
    
-      >>python gut2.py
+      --> python gut2.py
        
 
 
