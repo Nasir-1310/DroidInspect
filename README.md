@@ -28,3 +28,33 @@ The assumptions of the project are:
 ● Disabled notifications, auto-rotation, flight mode, and enabled mobile data and           Wi-Fi 
 ● Biometric and face-recognition inputs will not be considered
 
+
+
+**## Prerequisite##**
+
+1. `Python` (both 2 and 3 are supported)
+2. `Java`
+3. `Android SDK`
+4. Add `platform_tools` directory in Android SDK to `PATH`
+5. (Optional) `OpenCV-Python` if you want to run DroidBot in cv mode.
+
+
+## How to use
+
+1. Make sure you have:
+
+    + `.apk` file path of the app you want to analyze.
+    + A device or an emulator connected to your host machine via `adb`.
+
+
+2. How to Run.
+   Execute commands : 
+      >> Python .\start.py -h
+      >>Python .\start.py -a <path to apk> -o output
+
+   Or
+      Run the code with 
+      >>python gut2.py
+       
+
+
